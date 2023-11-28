@@ -28,6 +28,10 @@ text-transform: lowercase;
 border-radius: 5px;
 }
 
+h3:hover {
+    cursor: pointer;
+}
+
 h6 {
     letter-spacing: 0;
 }
